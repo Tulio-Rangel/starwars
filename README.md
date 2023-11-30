@@ -59,4 +59,4 @@ DELETE http://localhost:8080/films/{episodeId}
 ```
 Esta petición permite eliminar la información que guardamos en nuestra base de datos, para esto es necesario pasar el episode_id ya que este es el que se está tomando como identificador del registro de las películas en nuestra base de datos.
 
-En este mismo repositorio se encuentra una colección de postman con las peticiones anteriormente mencionadas: https://github.com/Tulio-Rangel/starwars/blob/main/Starwars.API.postman_collection.json
+En este mismo repositorio se encuentra una colección de postman con las peticiones anteriormente mencionadas: https://github.com/Tulio-Rangel/starwars/blob/main/Starwars%20API.postman_collection.json
